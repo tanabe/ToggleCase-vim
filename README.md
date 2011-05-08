@@ -16,4 +16,4 @@ toggle snake_case to camelCase and more
 
 
 ##Known issues
-* is same word in same line, all words will be toggle.
+* if same word in same line, all words will be toggle.
