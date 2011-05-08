@@ -76,7 +76,7 @@ perl <<EOF
   #my $row = @pos[0];
   #my $col = @pos[1];
   #my $line = $curbuf->Get($row);
-  my $cursor_word = VIM::Eval('expand("<cWORD>")');
+  my $cursor_word = VIM::Eval('expand("<cword>")');
   my $current_case = suppose_case($cursor_word);
   my $result;
   my @words = split_words($cursor_word);
