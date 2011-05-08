@@ -17,3 +17,4 @@ toggle snake_case to camelCase and more
 
 ##Known issues
 * if same word in same line, all words will be toggle.
+* heavily on MacVim.
